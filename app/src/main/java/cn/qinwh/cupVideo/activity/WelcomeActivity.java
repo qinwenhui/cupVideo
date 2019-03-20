@@ -10,7 +10,6 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.widget.ImageView;
 
-import cn.qinwh.cupVideo.R;
 import cn.qinwh.cupVideo.http.ImageHttp;
 
 /**
